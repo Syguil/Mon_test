@@ -1,0 +1,180 @@
+.arr {
+    /*position:absolute;
+    height: 795.38px;
+    left: -376.21px;
+    top: 332.62px;*/
+    position: relative;
+    background: #F5F5F5;
+    transform: rotate(0.06deg);
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.row {
+    margin-top: 40px;
+    padding-top: 40px;
+}
+
+.col-md-2 {
+    align: center;
+    margin-top: 60px;
+    padding-left: 40px;
+    margin-left: auto;
+    width: 30px;
+    height: 300px;
+    background: #FFFFFF;
+    border-top: 10px solid #8F75E3;
+    border: 5px, 0, 0, 0 solid rgba(112, 20, 233, 0.2);
+    box-shadow: -5px 20px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+button {
+    align-self: center;
+    position: relative;
+    width: 90px;
+    height: 30px;
+    text-align: left;
+    padding-bottom: 5px;
+    left: 50px;
+    top: 80px
+}
+.new
+{
+    position: relative;
+    align-self: center;
+    position: relative;
+    width: 40px;
+    height: 15px;
+    text-align: center;
+    left: 135px;
+    top: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    text-decoration: solid #FFFFFF;
+
+}
+
+.p_new
+{
+    position: relative;
+    color: #FFFFFF;
+    font-size: smaller;
+    bottom: 5px;
+    font-weight: bold;
+}
+.learn-more {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    color: #8F75E3;
+}
+
+.atout {
+    position: relative;
+    align-self: center;
+    left: 63px;
+    top: 20px;
+    font-weight: bold;
+}
+
+.desc {
+    position: relative;
+    width: 200px;
+    text-align: center;
+    font-size: smaller;
+    top: 20px;
+
+}
+
+.icon {
+    position: relative;
+    left: 83px;
+    top: 10px;
+    color: #8F75E3;
+}
+
+.component-3{
+    position: relative;
+    left: 60px;
+    top: 10px;
+    height: 40px;
+    width: 50px;
+}
+.col-md-3 {
+    position: relative;
+    align: center;
+    top: -29px;
+    margin-top: 60px;
+    padding-left: 40px;
+    margin-left: auto;
+    width: 30px;
+    height: 400px;
+    background: #FFFFFF;
+    border-top: 10px solid #8F75E3;
+    border-bottom: 10px solid #8F75E3;
+    border: 5px, 0, 0, 5px solid rgba(112, 20, 233, 0.2);
+    box-shadow: -2px 20px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.atout3 {
+    position: relative;
+    align-self: center;
+    left: 125px;
+    top: 25px;
+}
+
+.desc3 {
+    position: relative;
+    width: 200px;
+    text-align: center;
+    font-size: smaller;
+    left: 60px;
+    top: 25px;
+
+}
+
+.col-md-3 .btn {
+    position: relative;
+    left: 110px;
+    top: 170px;
+}
+.component-4{
+    position: relative;
+    left: 120px;
+    top: 20px;
+    height: 50px;
+    width: 60px;
+}
+.component-5{
+    top: -10px;
+    height: 29px;
+    width: 40px;
+}
+
+.col-md-6 {
+    height: 120px;
+}
+
+.desc1 {
+    font-size: small;
+}
+
+.title2 {
+    margin-top: 80px;
+    font-weight: bold;
+}
+.title
+{
+    font-weight: bold;
+}
+
+.plus
+{
+    font-weight: bold;
+}
